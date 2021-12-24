@@ -2,7 +2,7 @@
 "banChats": false,
 "autoread": false,
 "autocomposing": false,
-"autorecording": false,
+"autorecording": true,
 "OwnerName": "Rafly Osvaldo",
 "OwnerNumber": "6287841942469",
 "NomorOwner": "6287841942469",
